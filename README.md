@@ -1,3 +1,7 @@
+# next-authによるメールリンク認証
+大部分は公式チュートリアルに従ってます。  
+メール認証のテストツールとして[smtp4dev](https://github.com/rnwood/smtp4dev/releases)を使用しています。
+
 # NextAuth.js Example
 
 [next-auth-example.now.sh](https://next-auth-example.now.sh)
